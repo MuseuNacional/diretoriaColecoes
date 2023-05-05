@@ -1,0 +1,1 @@
+## Informações sobre captura de imagens e dados da Coleção de Carcinologia
