@@ -1,1 +1,3 @@
 Planilha única com 120 campos planejados de acordo com o formato Specify.
+
+## Problemas encontrados
