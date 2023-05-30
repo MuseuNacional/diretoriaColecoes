@@ -42,7 +42,7 @@ SemTabela,AssociatedTaxa
 ,ColecaoEspecial
 ,NotasTaxonomicas
 ,Autor
-,Ano descri‹o
+,Ano descricao
 ,DataUltimaAtualizacao
 
 CollectingEvent,DataColetaInicial
@@ -64,7 +64,7 @@ CollectingEvent,DataColetaInicial
 ,Long
 ,PrecisaoDaCoordenada
 ,FonteParaGeorreferenciamento
-,Descri‹oDoProcedimentoDeGeorreferenciamento
+,DescricaoDoProcedimentoDeGeorreferenciamento
 ,GrupoDeColeta
 ,MinAltitude
 ,MaxAltitude
