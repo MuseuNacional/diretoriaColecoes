@@ -5,8 +5,7 @@ CollectionObject ,NumeroDeCatalogo
 ,AltCatNumber
 ,DataDeObtencao
 ,CollectionObjectRemarks
-,
-,
+
 Determination,Kingdom
 ,Phylum
 ,Class
@@ -35,7 +34,7 @@ Determination,Kingdom
 ,DeterminatorFirstName2
 ,DeterminatorMiddleInitial2
 ,DeterminationRemark
-,
+
 SemTabela,AssociatedTaxa
 ,TypeOf (genus)
 ,Type of (species)
@@ -43,9 +42,9 @@ SemTabela,AssociatedTaxa
 ,ColecaoEspecial
 ,NotasTaxonomicas
 ,Autor
-,Ano descrição
+,Ano descri¬ç‚Äπo
 ,DataUltimaAtualizacao
-,
+
 CollectingEvent,DataColetaInicial
 ,DataColetaFinal
 ,Complemento
@@ -65,7 +64,7 @@ CollectingEvent,DataColetaInicial
 ,Long
 ,PrecisaoDaCoordenada
 ,FonteParaGeorreferenciamento
-,DescriçãoDoProcedimentoDeGeorreferenciamento
+,Descri¬ç‚ÄπoDoProcedimentoDeGeorreferenciamento
 ,GrupoDeColeta
 ,MinAltitude
 ,MaxAltitude
@@ -95,20 +94,17 @@ CollectingEvent,DataColetaInicial
 ,CollectorFirstName8
 ,CollectorMiddleName8
 ,CollectorRemark
-,Observacões
+,Observac‚Ä∫es
 ,DataVerbatim
-,
-,
+
 AccessionAgent,DoadosPor
 ,PermutaEntrada
-,
+
 DeaccessionAgent,DoadosPara
-,
+
 Deaccession,PermutaSaida
 ,Desdobramento
-,
-,
-,
+
 Collection Object Attribute,Massa
 ,CRC
 ,Sexo
@@ -116,18 +112,18 @@ Collection Object Attribute,Massa
 ,CollectionObjectAttributeRemarks
 ,Medidas
 ,CollectionObjectAttribute_Count
-,
+
 Preparation,PrepType1
 ,PrepType2
 ,PrepType3
 ,Preparation
-,Preparação 2
-,Preparação 3
+,Preparacao 2
+,Preparacao 3
 ,PreparacaoRemark
 ,Remarks 2
 ,Remarks 3
 ,PreparationCount
 ,Count 2
 ,Count 3
-,
+
 Preparation Attribute,DataDaMorte
