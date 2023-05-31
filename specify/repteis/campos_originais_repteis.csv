@@ -1,7 +1,6 @@
-CollectionObject ,NumeroDeCatalogo
+CollectionObject,NumeroDeCatalogo
 ,NumeroDeCampo
 ,DataDeEntrada
-,DataDaDeterminacao
 ,AltCatNumber
 ,DataDeObtencao
 ,CollectionObjectRemarks
@@ -34,6 +33,7 @@ Determination,Kingdom
 ,DeterminatorFirstName2
 ,DeterminatorMiddleInitial2
 ,DeterminationRemark
+,DataDaDeterminacao
 
 SemTabela,AssociatedTaxa
 ,TypeOf (genus)
