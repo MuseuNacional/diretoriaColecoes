@@ -1,4 +1,25 @@
 ## Organização original dos dados
+Originalmente a coleção se dividia em 60 pastas, uma para cada família, e dentro destas pastas haviam diferentes planilhas para cada gênero, dentro destas planilhas para cada gênero tinham guias para cada espécie. Dentro das guias tinhamos as informações sobre todos os materiais daquela determinada espécie.
+
+```mermaid
+graph LR
+A(Pasta com família) --> B(Planilha com gênero)
+B --> C(Guias com as espécies)
+```
+
+As planilhas possuiam o número de colunas variável, sendo em média 13 colunas contendo:
+- **Número de tombo**
+- **Sexo**
+- **Estado**
+- **Localidade**
+- **Coordenadas** (Dividida em 4 colunas)
+- **Dia**
+- **Mês**
+- **Ano**
+- **Coletor**
+- **Observação**
+
+Em alguns casos tinham colunas de **Altitude** e **Localidade 2**, o número de colunas para coordenadas podia ser 2 ao invés de 5.
 
 ## Problemas encontrados após a consolidação
 
