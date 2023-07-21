@@ -19,7 +19,7 @@ As planilhas possuiam o número de colunas variável, sendo em média 13 colunas
 - **Coletor**
 - **Observação**
 
-Em alguns casos tinham colunas de **Altitude** e **Localidade 2**, o número de colunas para coordenadas podia ser 2 ao invés de 5.
+Em alguns casos tinham colunas de **Altitude** e **Localidade 2**, o número de colunas para coordenadas podia ser 2 ao invés de 4.
 
 ## Problemas encontrados após a consolidação
 
